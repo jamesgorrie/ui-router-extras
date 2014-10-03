@@ -20,7 +20,6 @@
     "lodash": "latest"
   },
   "main": "release/ct-ui-router-extras",
-  "files": [ "release" ],
   "repository": "",
   "engines": {
     "node": "0.10.10"
